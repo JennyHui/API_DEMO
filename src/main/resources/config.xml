@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE configuration PUBLIC "-//mybatis.org//DTD Config 3.0//EN" "http://mybatis.org/dtd/mybatis-3-config.dtd">
+<configuration>
+
+    <!-- 引用.properties配置文件 -->
+    <properties resource="config.properties"/>
+
+    <!-- 
+        development : 开发模式
+        work : 工作模式
+     -->
+    <environments default="development">
+
+        <environment id="apiDB">
+            <transactionManager type="JDBC"/>
+            <!-- 配置数据库连接信息 -->
+            <dataSource type="POOLED">
+                <!-- value属性值引用config.properties配置文件中配置的值 -->
+                <property name="driver" value="${driver}"/>
+                <property name="url" value="${api_url}"/>
+                <property name="username" value="${rootname}"/>
+                <property name="password" value="${password}"/>
+            </dataSource>
+        </environment>
+
+    </environments>
+
+
+
+    <mappers>
+        <!-- 注册User.xml文件-->
+        <mapper resource="mapping/User.xml"/>
+        <!-- 注册UserMapper映射接口-->
+        <mapper class="sql.po.address.AddressMapperDao"/>
+    </mappers>
+
+</configuration>

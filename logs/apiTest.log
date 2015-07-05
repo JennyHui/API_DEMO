@@ -1,0 +1,23 @@
+2015-07-05 19:26:30 INFO main [api.GetAddressByCityTest]info(line:45)�ц�API璇锋�GET http://localhost:12306/world HTTP/1.1
+2015-07-05 19:26:31 INFO main [api.GetAddressByCityTest]info(line:49){
+   "ZIP Code":"361000",
+   "City":"Amoy"
+}
+2015-07-05 19:26:33 INFO main [api.GetAddressByCityTest]info(line:74)assertEquals(String message, Object actual, Object expected):邮编校验:��瑷�����
+瀹����硷�361000
+棰����硷�361000
+2015-07-05 19:26:33 INFO main [api.GetAddressByCityTest]info(line:45)�ц�API璇锋�GET http://localhost:12306/hello HTTP/1.1
+2015-07-05 19:26:33 INFO main [api.GetAddressByCityTest]info(line:49){
+   "name":"JennyHui",
+   "age":"18",
+   "sex":"F"
+}
+2015-07-05 19:26:33 INFO main [api.GetAddressByCityTest]info(line:74)assertEquals(String message, Object actual, Object expected):姓名校验:��瑷�����
+瀹����硷�JennyHui
+棰����硷�JennyHui
+2015-07-05 19:26:33 INFO main [api.GetAddressByCityTest]info(line:74)assertEquals(String message, Object actual, Object expected):性别校验:��瑷�����
+瀹����硷�F
+棰����硷�F
+2015-07-05 19:26:33 INFO main [api.GetAddressByCityTest]info(line:74)assertEquals(String message, Object actual, Object expected):年龄校验:��瑷�����
+瀹����硷�18
+棰����硷�18

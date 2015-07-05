@@ -1,0 +1,25 @@
+[
+	{
+	   "request": {
+		   "uri": "/hello"
+	   },
+	   "response": {
+		   "json": {
+			   "name" : "JennyHui",
+			   "age" : "18",
+			   "sex" : "F"
+		   }
+	   }
+	},
+	{
+	   "request": {
+		   "uri": "/world"
+	   },
+	   "response": {
+		   "json": {
+			   "ZIP Code" : "361000",
+			   "City" : "Amoy"
+		   }
+	   }
+	}
+]

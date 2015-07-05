@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="User">
+
+    <!-- 在select标签中编写查询的SQL语句， 设置select标签的id属性为accounts，string属性值必须是唯一的，不能够重复
+    使用parameterType属性指明查询时使用的参数类型，resultType属性指明查询返回的结果集类型
+    resultType="main.java.sql.po.accounts.Accounts"就表示将查询结果封装成一个User类的对象返回
+    Accounts类就是accounts表所对应的实体类-->
+    <select id="user_name" parameterType="string" resultType="sql.po.user.User">
+        select * from user where name=#{name}
+    </select>
+
+</mapper>

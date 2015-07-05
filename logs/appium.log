@@ -1,0 +1,513 @@
+2015-07-05 00:09:24 INFO main [api.TestOne]info(line:45)�ц�API璇锋�GET http://localhost:12306/hello?a=a&m=m HTTP/1.1
+2015-07-05 00:10:36 INFO main [api.TestOne]info(line:45)�ц�API璇锋�GET http://localhost:12306/hello HTTP/1.1
+2015-07-05 10:42:06 INFO main [api.TestOne]info(line:45)�ц�API璇锋�GET http://localhost:12306/hello HTTP/1.1
+2015-07-05 10:42:08 INFO main [api.TestOne]info(line:49)null
+2015-07-05 10:42:30 INFO main [api.TestOne]info(line:45)�ц�API璇锋�GET http://localhost:12306/hello HTTP/1.1
+2015-07-05 10:42:30 INFO main [api.TestOne]info(line:49){
+   "name":"JennyHui",
+   "age":"18",
+   "sex":"F"
+}
+2015-07-05 10:52:43 INFO main [api.TestOne]info(line:45)�ц�API璇锋�GET http://localhost:12306/hello HTTP/1.1
+2015-07-05 10:52:45 INFO main [api.TestOne]info(line:49)null
+2015-07-05 10:52:56 INFO main [api.TestOne]info(line:45)�ц�API璇锋�GET http://localhost:12306/hello HTTP/1.1
+2015-07-05 10:52:58 INFO main [api.TestOne]info(line:49)null
+2015-07-05 10:54:39 INFO main [api.TestOne]info(line:45)�ц�API璇锋�GET http://localhost:12306/hello HTTP/1.1
+2015-07-05 10:54:40 INFO main [api.TestOne]info(line:49){
+   "name":"JennyHui",
+   "age":"18",
+   "sex":"F"
+}
+2015-07-05 10:55:56 INFO main [api.TestOne]info(line:45)�ц�API璇锋�GET http://localhost:12306/hello HTTP/1.1
+2015-07-05 10:55:57 INFO main [api.TestOne]info(line:49){
+   "name":"JennyHui",
+   "age":"18",
+   "sex":"F"
+}
+2015-07-05 10:57:35 INFO main [api.TestOne]info(line:45)�ц�API璇锋�GET http://localhost:12306/hello HTTP/1.1
+2015-07-05 10:57:36 INFO main [api.TestOne]info(line:49){
+   "name":"JennyHui",
+   "age":"18",
+   "sex":"F"
+}
+2015-07-05 11:00:36 INFO main [api.TestOne]info(line:45)�ц�API璇锋�GET http://localhost:12306/hello HTTP/1.1
+2015-07-05 11:00:37 INFO main [api.TestOne]info(line:49){
+   "name":"JennyHui",
+   "age":"18",
+   "sex":"F"
+}
+2015-07-05 11:03:57 INFO main [api.TestOne]info(line:45)�ц�API璇锋�GET http://localhost:12306/hello HTTP/1.1
+2015-07-05 11:03:59 INFO main [api.TestOne]info(line:49)null
+2015-07-05 11:04:15 INFO main [api.TestOne]info(line:45)�ц�API璇锋�GET http://localhost:12306/hello HTTP/1.1
+2015-07-05 11:04:17 INFO main [api.TestOne]info(line:49)null
+2015-07-05 11:05:21 INFO main [api.TestOne]info(line:45)�ц�API璇锋�GET http://localhost:12306/hello HTTP/1.1
+2015-07-05 11:05:23 INFO main [api.TestOne]info(line:49)null
+2015-07-05 11:05:59 INFO main [api.TestOne]info(line:45)�ц�API璇锋�GET http://localhost:12306/hello HTTP/1.1
+2015-07-05 11:06:01 INFO main [api.TestOne]info(line:49)null
+2015-07-05 11:06:25 INFO main [api.TestOne]info(line:45)�ц�API璇锋�GET http://localhost:12306/hello HTTP/1.1
+2015-07-05 11:06:27 INFO main [api.TestOne]info(line:49)null
+2015-07-05 11:06:41 INFO main [api.TestOne]info(line:45)�ц�API璇锋�GET http://localhost:12306/hello HTTP/1.1
+2015-07-05 11:06:43 INFO main [api.TestOne]info(line:49)null
+2015-07-05 11:07:47 INFO main [api.TestOne]info(line:45)�ц�API璇锋�GET http://localhost:12306/hello HTTP/1.1
+2015-07-05 11:07:49 INFO main [api.TestOne]info(line:49)null
+2015-07-05 11:08:49 INFO main [api.TestOne]info(line:45)�ц�API璇锋�GET http://localhost:12306/hello HTTP/1.1
+2015-07-05 11:08:50 INFO main [api.TestOne]info(line:49){
+   "name":"JennyHui",
+   "age":"18",
+   "sex":"F"
+}
+2015-07-05 11:10:23 INFO main [api.TestOne]info(line:45)�ц�API璇锋�GET http://localhost:12306/hello HTTP/1.1
+2015-07-05 11:10:24 INFO main [api.TestOne]info(line:49){
+   "name":"JennyHui",
+   "age":"18",
+   "sex":"F"
+}
+2015-07-05 11:11:53 INFO main [api.TestOne]info(line:45)�ц�API璇锋�GET http://localhost:12306/hello HTTP/1.1
+2015-07-05 11:11:54 INFO main [api.TestOne]info(line:49){
+   "name":"JennyHui",
+   "age":"18",
+   "sex":"F"
+}
+2015-07-05 11:12:57 INFO main [api.TestOne]info(line:45)�ц�API璇锋�GET http://localhost:12306/hello HTTP/1.1
+2015-07-05 11:12:57 INFO main [api.TestOne]info(line:49){
+   "name":"JennyHui",
+   "age":"18",
+   "sex":"F"
+}
+2015-07-05 11:14:20 INFO main [api.TestOne]info(line:45)�ц�API璇锋�GET http://localhost:12306/hello HTTP/1.1
+2015-07-05 11:14:21 INFO main [api.TestOne]info(line:49){
+   "name":"JennyHui",
+   "age":"18",
+   "sex":"F"
+}
+2015-07-05 11:18:15 INFO main [api.TestOne]info(line:45)�ц�API璇锋�GET http://localhost:12306/hello HTTP/1.1
+2015-07-05 11:18:15 INFO main [api.TestOne]info(line:49){
+   "name":"JennyHui",
+   "age":"18",
+   "sex":"F"
+}
+2015-07-05 11:19:08 INFO main [api.TestOne]info(line:45)�ц�API璇锋�GET http://localhost:12306/hello HTTP/1.1
+2015-07-05 11:19:09 INFO main [api.TestOne]info(line:49){
+   "name":"JennyHui",
+   "age":"18",
+   "sex":"F"
+}
+2015-07-05 11:19:09 INFO main [api.TestOne]info(line:45)111111
+2015-07-05 16:18:35 INFO main [api.TestOne]info(line:45)�ц�API璇锋�GET http://localhost:12306/hello HTTP/1.1
+2015-07-05 16:18:36 INFO main [api.TestOne]info(line:49){
+   "name":"JennyHui",
+   "age":"18",
+   "sex":"F"
+}
+2015-07-05 16:18:36 INFO main [api.TestOne]info(line:74)assertEquals(String message, Object actual, Object expected):年龄校验:��瑷�����
+瀹����硷�18
+棰����硷�18
+2015-07-05 16:19:05 INFO main [api.TestOne]info(line:45)�ц�API璇锋�GET http://localhost:12306/hello HTTP/1.1
+2015-07-05 16:19:05 INFO main [api.TestOne]info(line:49){
+   "name":"JennyHui",
+   "age":"18",
+   "sex":"F"
+}
+2015-07-05 16:19:05 INFO main [api.TestOne]info(line:74)assertEquals(String message, Object actual, Object expected):年龄校验:��瑷�����
+瀹����硷�18
+棰����硷�18
+2015-07-05 16:20:01 INFO main [api.TestOne]info(line:45)�ц�API璇锋�GET http://localhost:12306/hello HTTP/1.1
+2015-07-05 16:20:02 INFO main [api.TestOne]info(line:49){
+   "name":"JennyHui",
+   "age":"18",
+   "sex":"F"
+}
+2015-07-05 16:20:02 INFO main [api.TestOne]info(line:74)assertEquals(String message, Object actual, Object expected):姓名校验:��瑷�����
+瀹����硷�JennyHui
+棰����硷�JennyHui
+2015-07-05 16:20:02 INFO main [api.TestOne]info(line:74)assertEquals(String message, Object actual, Object expected):性别校验:��瑷�����
+瀹����硷�F
+棰����硷�F
+2015-07-05 16:20:02 INFO main [api.TestOne]info(line:74)assertEquals(String message, Object actual, Object expected):年龄校验:��瑷�����
+瀹����硷�18
+棰����硷�18
+2015-07-05 16:20:16 INFO main [api.TestOne]info(line:45)�ц�API璇锋�GET http://localhost:12306/hello HTTP/1.1
+2015-07-05 16:20:16 INFO main [api.TestOne]info(line:49){
+   "name":"JennyHui",
+   "age":"18",
+   "sex":"F"
+}
+2015-07-05 16:20:16 INFO main [api.TestOne]info(line:74)assertEquals(String message, Object actual, Object expected):姓名校验:��瑷�����
+瀹����硷�JennyHui
+棰����硷�JennyHui
+2015-07-05 16:20:16 INFO main [api.TestOne]info(line:74)assertEquals(String message, Object actual, Object expected):性别校验:��瑷�����
+瀹����硷�F
+棰����硷�F
+2015-07-05 16:20:16 INFO main [api.TestOne]info(line:74)assertEquals(String message, Object actual, Object expected):年龄校验:��瑷�����
+瀹����硷�18
+棰����硷�18
+2015-07-05 16:20:37 INFO main [api.TestOne]info(line:45)�ц�API璇锋�GET http://localhost:12306/hello HTTP/1.1
+2015-07-05 16:20:37 INFO main [api.TestOne]info(line:49){
+   "name":"JennyHui",
+   "age":"18",
+   "sex":"F"
+}
+2015-07-05 16:20:37 INFO main [api.TestOne]info(line:74)assertEquals(String message, Object actual, Object expected):姓名校验:��瑷�����
+瀹����硷�JennyHui
+棰����硷�JennyHui
+2015-07-05 16:20:37 INFO main [api.TestOne]info(line:74)assertEquals(String message, Object actual, Object expected):性别校验:��瑷�����
+瀹����硷�F
+棰����硷�F
+2015-07-05 16:20:37 INFO main [api.TestOne]info(line:74)assertEquals(String message, Object actual, Object expected):年龄校验:��瑷�����
+瀹����硷�18
+棰����硷�18
+2015-07-05 16:20:52 INFO main [api.TestOne]info(line:45)�ц�API璇锋�GET http://localhost:12306/hello HTTP/1.1
+2015-07-05 16:20:52 INFO main [api.TestOne]info(line:49){
+   "name":"JennyHui",
+   "age":"18",
+   "sex":"F"
+}
+2015-07-05 16:20:52 INFO main [api.TestOne]info(line:74)assertEquals(String message, Object actual, Object expected):姓名校验:��瑷�����
+瀹����硷�JennyHui
+棰����硷�JennyHui
+2015-07-05 16:20:52 INFO main [api.TestOne]info(line:74)assertEquals(String message, Object actual, Object expected):性别校验:��瑷�����
+瀹����硷�F
+棰����硷�F
+2015-07-05 16:20:52 INFO main [api.TestOne]info(line:74)assertEquals(String message, Object actual, Object expected):年龄校验:��瑷�����
+瀹����硷�18
+棰����硷�18
+2015-07-05 16:21:22 INFO main [api.TestOne]info(line:45)执行API请求GET http://localhost:12306/hello HTTP/1.1
+2015-07-05 16:21:23 INFO main [api.TestOne]info(line:49){
+   "name":"JennyHui",
+   "age":"18",
+   "sex":"F"
+}
+2015-07-05 16:21:23 INFO main [api.TestOne]info(line:74)assertEquals(String message, Object actual, Object expected):����У��:断言成功
+实际值：JennyHui
+预期值：JennyHui
+2015-07-05 16:21:23 INFO main [api.TestOne]info(line:74)assertEquals(String message, Object actual, Object expected):�Ա�У��:断言成功
+实际值：F
+预期值：F
+2015-07-05 16:21:23 INFO main [api.TestOne]info(line:74)assertEquals(String message, Object actual, Object expected):����У��:断言成功
+实际值：18
+预期值：18
+2015-07-05 17:24:32 INFO main [api.TestOne]info(line:45)�ц�API璇锋�GET http://localhost:12306/hello HTTP/1.1
+2015-07-05 17:24:33 INFO main [api.TestOne]info(line:49){
+   "name":"JennyHui",
+   "age":"18",
+   "sex":"F"
+}
+2015-07-05 17:25:13 INFO main [api.TestOne]info(line:45)�ц�API璇锋�GET http://localhost:12306/hello HTTP/1.1
+2015-07-05 17:25:13 INFO main [api.TestOne]info(line:49){
+   "name":"JennyHui",
+   "age":"18",
+   "sex":"F"
+}
+2015-07-05 17:29:15 INFO main [api.TestOne]info(line:45)�ц�API璇锋�GET http://localhost:12306/hello HTTP/1.1
+2015-07-05 17:29:16 INFO main [api.TestOne]info(line:49){
+   "name":"JennyHui",
+   "age":"18",
+   "sex":"F"
+}
+2015-07-05 17:32:55 INFO main [api.TestOne]info(line:45)�ц�API璇锋�GET http://localhost:12306/hello HTTP/1.1
+2015-07-05 17:32:56 INFO main [api.TestOne]info(line:49){
+   "name":"JennyHui",
+   "age":"18",
+   "sex":"F"
+}
+2015-07-05 17:33:30 INFO main [api.TestOne]info(line:45)�ц�API璇锋�GET http://localhost:12306/hello HTTP/1.1
+2015-07-05 17:33:30 INFO main [api.TestOne]info(line:49){
+   "name":"JennyHui",
+   "age":"18",
+   "sex":"F"
+}
+2015-07-05 17:34:14 INFO main [api.TestOne]info(line:45)�ц�API璇锋�GET http://localhost:12306/hello HTTP/1.1
+2015-07-05 17:34:15 INFO main [api.TestOne]info(line:49){
+   "name":"JennyHui",
+   "age":"18",
+   "sex":"F"
+}
+2015-07-05 17:34:57 INFO main [api.TestOne]info(line:45)�ц�API璇锋�GET http://localhost:12306/hello HTTP/1.1
+2015-07-05 17:34:57 INFO main [api.TestOne]info(line:49){
+   "name":"JennyHui",
+   "age":"18",
+   "sex":"F"
+}
+2015-07-05 17:35:12 INFO main [api.TestOne]info(line:45)�ц�API璇锋�GET http://localhost:12306/hello HTTP/1.1
+2015-07-05 17:35:12 INFO main [api.TestOne]info(line:49){
+   "name":"JennyHui",
+   "age":"18",
+   "sex":"F"
+}
+2015-07-05 17:37:49 INFO main [api.TestOne]info(line:45)�ц�API璇锋�GET http://localhost:12306/hello HTTP/1.1
+2015-07-05 17:37:50 INFO main [api.TestOne]info(line:49){
+   "name":"JennyHui",
+   "age":"18",
+   "sex":"F"
+}
+2015-07-05 17:37:51 INFO main [api.TestOne]info(line:74)assertEquals(String message, Object actual, Object expected):姓名校验:��瑷�����
+瀹����硷�JennyHui
+棰����硷�JennyHui
+2015-07-05 17:37:51 INFO main [api.TestOne]info(line:74)assertEquals(String message, Object actual, Object expected):性别校验:��瑷�����
+瀹����硷�F
+棰����硷�F
+2015-07-05 17:37:51 INFO main [api.TestOne]info(line:74)assertEquals(String message, Object actual, Object expected):年龄校验:��瑷�����
+瀹����硷�18
+棰����硷�18
+2015-07-05 17:38:04 INFO main [api.TestOne]info(line:45)�ц�API璇锋�GET http://localhost:12306/hello HTTP/1.1
+2015-07-05 17:38:05 INFO main [api.TestOne]info(line:49){
+   "name":"JennyHui",
+   "age":"18",
+   "sex":"F"
+}
+2015-07-05 17:38:05 INFO main [api.TestOne]info(line:74)assertEquals(String message, Object actual, Object expected):姓名校验:��瑷�����
+瀹����硷�JennyHui
+棰����硷�JennyHui
+2015-07-05 17:38:05 INFO main [api.TestOne]info(line:74)assertEquals(String message, Object actual, Object expected):性别校验:��瑷�����
+瀹����硷�F
+棰����硷�F
+2015-07-05 17:38:05 INFO main [api.TestOne]info(line:74)assertEquals(String message, Object actual, Object expected):年龄校验:��瑷�����
+瀹����硷�18
+棰����硷�18
+2015-07-05 17:38:14 INFO main [api.TestOne]info(line:45)�ц�API璇锋�GET http://localhost:12306/hello HTTP/1.1
+2015-07-05 17:38:14 INFO main [api.TestOne]info(line:49){
+   "name":"JennyHui",
+   "age":"18",
+   "sex":"F"
+}
+2015-07-05 17:38:15 INFO main [api.TestOne]info(line:74)assertEquals(String message, Object actual, Object expected):姓名校验:��瑷�����
+瀹����硷�JennyHui
+棰����硷�JennyHui
+2015-07-05 17:38:15 INFO main [api.TestOne]info(line:74)assertEquals(String message, Object actual, Object expected):性别校验:��瑷�����
+瀹����硷�F
+棰����硷�F
+2015-07-05 17:38:15 INFO main [api.TestOne]info(line:74)assertEquals(String message, Object actual, Object expected):年龄校验:��瑷�����
+瀹����硷�18
+棰����硷�18
+2015-07-05 17:38:36 INFO main [api.TestOne]info(line:45)鎵цAPI璇锋眰GET http://localhost:12306/hello HTTP/1.1
+2015-07-05 17:38:36 INFO main [api.TestOne]info(line:49){
+   "name":"JennyHui",
+   "age":"18",
+   "sex":"F"
+}
+2015-07-05 17:38:36 INFO main [api.TestOne]info(line:74)assertEquals(String message, Object actual, Object expected):姓名校验:鏂█鎴愬姛
+瀹為檯鍊硷細JennyHui
+棰勬湡鍊硷細JennyHui
+2015-07-05 17:38:36 INFO main [api.TestOne]info(line:74)assertEquals(String message, Object actual, Object expected):性别校验:鏂█鎴愬姛
+瀹為檯鍊硷細F
+棰勬湡鍊硷細F
+2015-07-05 17:38:36 INFO main [api.TestOne]info(line:74)assertEquals(String message, Object actual, Object expected):年龄校验:鏂█鎴愬姛
+瀹為檯鍊硷細18
+棰勬湡鍊硷細18
+2015-07-05 17:38:50 INFO main [api.TestOne]info(line:45)�ц�API璇锋�GET http://localhost:12306/hello HTTP/1.1
+2015-07-05 17:38:50 INFO main [api.TestOne]info(line:49){
+   "name":"JennyHui",
+   "age":"18",
+   "sex":"F"
+}
+2015-07-05 17:38:51 INFO main [api.TestOne]info(line:74)assertEquals(String message, Object actual, Object expected):姓名校验:��瑷�����
+瀹����硷�JennyHui
+棰����硷�JennyHui
+2015-07-05 17:38:51 INFO main [api.TestOne]info(line:74)assertEquals(String message, Object actual, Object expected):性别校验:��瑷�����
+瀹����硷�F
+棰����硷�F
+2015-07-05 17:38:51 INFO main [api.TestOne]info(line:74)assertEquals(String message, Object actual, Object expected):年龄校验:��瑷�����
+瀹����硷�18
+棰����硷�18
+2015-07-05 17:39:28 INFO main [api.TestOne]info(line:45)�ц�API璇锋�GET http://localhost:12306/hello HTTP/1.1
+2015-07-05 17:39:29 INFO main [api.TestOne]info(line:49){
+   "name":"JennyHui",
+   "age":"18",
+   "sex":"F"
+}
+2015-07-05 17:39:29 INFO main [api.TestOne]info(line:74)assertEquals(String message, Object actual, Object expected):姓名校验:��瑷�����
+瀹����硷�JennyHui
+棰����硷�JennyHui
+2015-07-05 17:39:29 INFO main [api.TestOne]info(line:74)assertEquals(String message, Object actual, Object expected):性别校验:��瑷�����
+瀹����硷�F
+棰����硷�F
+2015-07-05 17:39:29 INFO main [api.TestOne]info(line:74)assertEquals(String message, Object actual, Object expected):年龄校验:��瑷�����
+瀹����硷�18
+棰����硷�18
+2015-07-05 17:40:08 INFO main [api.TestOne]info(line:45)�ц�API璇锋�GET http://localhost:12306/hello HTTP/1.1
+2015-07-05 17:40:09 INFO main [api.TestOne]info(line:49){
+   "name":"JennyHui",
+   "age":"18",
+   "sex":"F"
+}
+2015-07-05 17:40:09 INFO main [api.TestOne]info(line:74)assertEquals(String message, Object actual, Object expected):姓名校验:��瑷�����
+瀹����硷�JennyHui
+棰����硷�JennyHui
+2015-07-05 17:40:09 INFO main [api.TestOne]info(line:74)assertEquals(String message, Object actual, Object expected):性别校验:��瑷�����
+瀹����硷�F
+棰����硷�F
+2015-07-05 17:40:09 INFO main [api.TestOne]info(line:74)assertEquals(String message, Object actual, Object expected):年龄校验:��瑷�����
+瀹����硷�18
+棰����硷�18
+2015-07-05 17:40:34 INFO main [api.TestOne]info(line:45)�ц�API璇锋�GET http://localhost:12306/hello HTTP/1.1
+2015-07-05 17:40:34 INFO main [api.TestOne]info(line:49){
+   "name":"JennyHui",
+   "age":"18",
+   "sex":"F"
+}
+2015-07-05 17:40:35 INFO main [api.TestOne]info(line:74)assertEquals(String message, Object actual, Object expected):姓名校验:��瑷�����
+瀹����硷�JennyHui
+棰����硷�JennyHui
+2015-07-05 17:40:35 INFO main [api.TestOne]info(line:74)assertEquals(String message, Object actual, Object expected):性别校验:��瑷�����
+瀹����硷�F
+棰����硷�F
+2015-07-05 17:40:35 INFO main [api.TestOne]info(line:74)assertEquals(String message, Object actual, Object expected):年龄校验:��瑷�����
+瀹����硷�18
+棰����硷�18
+2015-07-05 19:04:23 INFO main [api.GetAddressByCityTest]info(line:45)�ц�API璇锋�GET http://localhost:12306/world HTTP/1.1
+2015-07-05 19:04:23 INFO main [api.GetAddressByCityTest]info(line:49){
+   "ZIP Code":"361000",
+   "City":"Amoy"
+}
+2015-07-05 19:06:03 INFO main [api.GetAddressByCityTest]info(line:45)�ц�API璇锋�GET http://localhost:12306/world HTTP/1.1
+2015-07-05 19:06:04 INFO main [api.GetAddressByCityTest]info(line:49){
+   "ZIP Code":"361000",
+   "City":"Amoy"
+}
+2015-07-05 19:10:19 INFO main [api.GetAddressByCityTest]info(line:45)�ц�API璇锋�GET http://localhost:12306/world HTTP/1.1
+2015-07-05 19:10:19 INFO main [api.GetAddressByCityTest]info(line:49){
+   "ZIP Code":"361000",
+   "City":"Amoy"
+}
+2015-07-05 19:10:21 ERROR main [api.GetAddressByCityTest]error(line:65)邮编校验��瑷�澶辫触锛�
+棰����硷�0
+��瀹��硷�361000
+2015-07-05 19:11:58 INFO main [api.GetAddressByCityTest]info(line:45)�ц�API璇锋�GET http://localhost:12306/world HTTP/1.1
+2015-07-05 19:11:59 INFO main [api.GetAddressByCityTest]info(line:49){
+   "ZIP Code":"361000",
+   "City":"Amoy"
+}
+2015-07-05 19:12:02 ERROR main [api.GetAddressByCityTest]error(line:65)邮编校验��瑷�澶辫触锛�
+棰����硷�0
+��瀹��硷�361000
+2015-07-05 19:16:56 INFO main [api.GetAddressByCityTest]info(line:45)�ц�API璇锋�GET http://localhost:12306/world HTTP/1.1
+2015-07-05 19:16:57 INFO main [api.GetAddressByCityTest]info(line:49){
+   "ZIP Code":"361000",
+   "City":"Amoy"
+}
+2015-07-05 19:17:01 INFO main [api.GetAddressByCityTest]info(line:74)assertEquals(String message, Object actual, Object expected):邮编校验:��瑷�����
+瀹����硷�361000
+棰����硷�361000
+2015-07-05 19:17:23 INFO main [api.GetAddressByCityTest]info(line:45)�ц�API璇锋�GET http://localhost:12306/world HTTP/1.1
+2015-07-05 19:17:23 INFO main [api.GetAddressByCityTest]info(line:49){
+   "ZIP Code":"361000",
+   "City":"Amoy"
+}
+2015-07-05 19:17:27 INFO main [api.GetAddressByCityTest]info(line:74)assertEquals(String message, Object actual, Object expected):邮编校验:��瑷�����
+瀹����硷�361000
+棰����硷�361000
+2015-07-05 19:18:03 INFO main [api.GetUserByNameTest]info(line:45)�ц�API璇锋�GET http://localhost:12306/world HTTP/1.1
+2015-07-05 19:18:04 INFO main [api.GetUserByNameTest]info(line:49){
+   "ZIP Code":"361000",
+   "City":"Amoy"
+}
+2015-07-05 19:18:06 INFO main [api.GetUserByNameTest]info(line:74)assertEquals(String message, Object actual, Object expected):邮编校验:��瑷�����
+瀹����硷�361000
+棰����硷�361000
+2015-07-05 19:18:06 INFO main [api.GetUserByNameTest]info(line:45)�ц�API璇锋�GET http://localhost:12306/hello HTTP/1.1
+2015-07-05 19:18:06 INFO main [api.GetUserByNameTest]info(line:49){
+   "name":"JennyHui",
+   "age":"18",
+   "sex":"F"
+}
+2015-07-05 19:18:07 INFO main [api.GetUserByNameTest]info(line:74)assertEquals(String message, Object actual, Object expected):姓名校验:��瑷�����
+瀹����硷�JennyHui
+棰����硷�JennyHui
+2015-07-05 19:18:07 INFO main [api.GetUserByNameTest]info(line:74)assertEquals(String message, Object actual, Object expected):性别校验:��瑷�����
+瀹����硷�F
+棰����硷�F
+2015-07-05 19:18:07 INFO main [api.GetUserByNameTest]info(line:74)assertEquals(String message, Object actual, Object expected):年龄校验:��瑷�����
+瀹����硷�18
+棰����硷�18
+2015-07-05 19:18:23 INFO main [api.GetAddressByCityTest]info(line:45)�ц�API璇锋�GET http://localhost:12306/world HTTP/1.1
+2015-07-05 19:18:23 INFO main [api.GetAddressByCityTest]info(line:49){
+   "ZIP Code":"361000",
+   "City":"Amoy"
+}
+2015-07-05 19:18:27 INFO main [api.GetAddressByCityTest]info(line:74)assertEquals(String message, Object actual, Object expected):邮编校验:��瑷�����
+瀹����硷�361000
+棰����硷�361000
+2015-07-05 19:18:27 INFO main [api.GetAddressByCityTest]info(line:45)�ц�API璇锋�GET http://localhost:12306/hello HTTP/1.1
+2015-07-05 19:18:27 INFO main [api.GetAddressByCityTest]info(line:49){
+   "name":"JennyHui",
+   "age":"18",
+   "sex":"F"
+}
+2015-07-05 19:18:28 INFO main [api.GetAddressByCityTest]info(line:74)assertEquals(String message, Object actual, Object expected):姓名校验:��瑷�����
+瀹����硷�JennyHui
+棰����硷�JennyHui
+2015-07-05 19:18:28 INFO main [api.GetAddressByCityTest]info(line:74)assertEquals(String message, Object actual, Object expected):性别校验:��瑷�����
+瀹����硷�F
+棰����硷�F
+2015-07-05 19:18:28 INFO main [api.GetAddressByCityTest]info(line:74)assertEquals(String message, Object actual, Object expected):年龄校验:��瑷�����
+瀹����硷�18
+棰����硷�18
+2015-07-05 19:21:21 INFO main [api.GetAddressByCityTest]info(line:45)�ц�API璇锋�GET http://localhost:12306/world HTTP/1.1
+2015-07-05 19:21:21 INFO main [api.GetAddressByCityTest]info(line:49){
+   "ZIP Code":"361000",
+   "City":"Amoy"
+}
+2015-07-05 19:21:25 INFO main [api.GetAddressByCityTest]info(line:74)assertEquals(String message, Object actual, Object expected):邮编校验:��瑷�����
+瀹����硷�361000
+棰����硷�361000
+2015-07-05 19:21:25 INFO main [api.GetAddressByCityTest]info(line:45)�ц�API璇锋�GET http://localhost:12306/hello HTTP/1.1
+2015-07-05 19:21:25 INFO main [api.GetAddressByCityTest]info(line:49){
+   "name":"JennyHui",
+   "age":"18",
+   "sex":"F"
+}
+2015-07-05 19:21:25 INFO main [api.GetAddressByCityTest]info(line:74)assertEquals(String message, Object actual, Object expected):姓名校验:��瑷�����
+瀹����硷�JennyHui
+棰����硷�JennyHui
+2015-07-05 19:21:25 INFO main [api.GetAddressByCityTest]info(line:74)assertEquals(String message, Object actual, Object expected):性别校验:��瑷�����
+瀹����硷�F
+棰����硷�F
+2015-07-05 19:21:25 INFO main [api.GetAddressByCityTest]info(line:74)assertEquals(String message, Object actual, Object expected):年龄校验:��瑷�����
+瀹����硷�18
+棰����硷�18
+2015-07-05 19:21:54 INFO main [api.GetUserByNameTest]info(line:45)�ц�API璇锋�GET http://localhost:12306/world HTTP/1.1
+2015-07-05 19:21:54 INFO main [api.GetUserByNameTest]info(line:49){
+   "ZIP Code":"361000",
+   "City":"Amoy"
+}
+2015-07-05 19:21:57 INFO main [api.GetUserByNameTest]info(line:74)assertEquals(String message, Object actual, Object expected):邮编校验:��瑷�����
+瀹����硷�361000
+棰����硷�361000
+2015-07-05 19:21:57 INFO main [api.GetUserByNameTest]info(line:45)�ц�API璇锋�GET http://localhost:12306/hello HTTP/1.1
+2015-07-05 19:21:57 INFO main [api.GetUserByNameTest]info(line:49){
+   "name":"JennyHui",
+   "age":"18",
+   "sex":"F"
+}
+2015-07-05 19:21:57 INFO main [api.GetUserByNameTest]info(line:74)assertEquals(String message, Object actual, Object expected):姓名校验:��瑷�����
+瀹����硷�JennyHui
+棰����硷�JennyHui
+2015-07-05 19:21:57 INFO main [api.GetUserByNameTest]info(line:74)assertEquals(String message, Object actual, Object expected):性别校验:��瑷�����
+瀹����硷�F
+棰����硷�F
+2015-07-05 19:21:57 INFO main [api.GetUserByNameTest]info(line:74)assertEquals(String message, Object actual, Object expected):年龄校验:��瑷�����
+瀹����硷�18
+棰����硷�18
+2015-07-05 19:22:36 INFO main [api.GetUserByNameTest]info(line:45)�ц�API璇锋�GET http://localhost:12306/world HTTP/1.1
+2015-07-05 19:22:36 INFO main [api.GetUserByNameTest]info(line:49){
+   "ZIP Code":"361000",
+   "City":"Amoy"
+}
+2015-07-05 19:22:38 INFO main [api.GetUserByNameTest]info(line:74)assertEquals(String message, Object actual, Object expected):邮编校验:��瑷�����
+瀹����硷�361000
+棰����硷�361000
+2015-07-05 19:22:38 INFO main [api.GetUserByNameTest]info(line:45)�ц�API璇锋�GET http://localhost:12306/hello HTTP/1.1
+2015-07-05 19:22:38 INFO main [api.GetUserByNameTest]info(line:49){
+   "name":"JennyHui",
+   "age":"18",
+   "sex":"F"
+}
+2015-07-05 19:22:38 INFO main [api.GetUserByNameTest]info(line:74)assertEquals(String message, Object actual, Object expected):姓名校验:��瑷�����
+瀹����硷�JennyHui
+棰����硷�JennyHui
+2015-07-05 19:22:38 INFO main [api.GetUserByNameTest]info(line:74)assertEquals(String message, Object actual, Object expected):性别校验:��瑷�����
+瀹����硷�F
+棰����硷�F
+2015-07-05 19:22:38 INFO main [api.GetUserByNameTest]info(line:74)assertEquals(String message, Object actual, Object expected):年龄校验:��瑷�����
+瀹����硷�18
+棰����硷�18
